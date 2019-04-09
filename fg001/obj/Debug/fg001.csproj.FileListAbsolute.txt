@@ -1,0 +1,13 @@
+C:\Users\mikhail\Documents\_Rinne C# Projects\fg001\fg001\bin\Debug\fg001.exe.config
+C:\Users\mikhail\Documents\_Rinne C# Projects\fg001\fg001\bin\Debug\fg001.exe
+C:\Users\mikhail\Documents\_Rinne C# Projects\fg001\fg001\bin\Debug\fg001.pdb
+C:\Users\mikhail\Documents\_Rinne C# Projects\fg001\fg001\obj\Debug\fg001.csprojResolveAssemblyReference.cache
+C:\Users\mikhail\Documents\_Rinne C# Projects\fg001\fg001\obj\Debug\fg001.exe
+C:\Users\mikhail\Documents\_Rinne C# Projects\fg001\fg001\obj\Debug\fg001.pdb
+C:\Users\mikhail\Documents\_Rinne_C#_Projects\fg001\fg001\bin\Debug\fg001.exe.config
+C:\Users\mikhail\Documents\_Rinne_C#_Projects\fg001\fg001\bin\Debug\fg001.exe
+C:\Users\mikhail\Documents\_Rinne_C#_Projects\fg001\fg001\obj\Debug\fg001.csprojResolveAssemblyReference.cache
+C:\Users\mikhail\Documents\_Rinne_C#_Projects\fg001\fg001\obj\Debug\fg001.csproj.CoreCompileInputs.cache
+C:\Users\mikhail\Documents\_Rinne_C#_Projects\fg001\fg001\obj\Debug\fg001.exe
+C:\Users\mikhail\Documents\_Rinne_C#_Projects\fg001\fg001\obj\Debug\fg001.pdb
+C:\Users\mikhail\Documents\_Rinne_C#_Projects\fg001\fg001\bin\Debug\fg001.pdb
